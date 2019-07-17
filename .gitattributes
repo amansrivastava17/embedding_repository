@@ -1,0 +1,4 @@
+glove.twitter.27B.200d.txt.zip filter=lfs diff=lfs merge=lfs -text
+glove.twitter.27B.25d.txt.zip filter=lfs diff=lfs merge=lfs -text
+glove.twitter.27B.50d.txt.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
